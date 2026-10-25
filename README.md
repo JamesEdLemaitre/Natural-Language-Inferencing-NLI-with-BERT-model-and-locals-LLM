@@ -8,7 +8,7 @@ ou n'a aucun rapport avec elle.
 
 ## Les approches effectuées
 
-- Fine-tuning de BERT sur une tâche de NLI
+- Fine-tuning de BERT
 - Un deuxième essai de BERT avec 20 epochs
 - Même chose avec DistilBERT, plus léger
 - Comparaison avec des LLM qu'on fait tourner en local
